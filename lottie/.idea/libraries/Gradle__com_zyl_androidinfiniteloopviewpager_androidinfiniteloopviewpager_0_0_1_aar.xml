@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.zyl.androidinfiniteloopviewpager:androidinfiniteloopviewpager:0.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/androidinfiniteloopviewpager-0.0.1.aar/e14995e595d2d2635fd6c5dfeff02535/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/androidinfiniteloopviewpager-0.0.1.aar/e14995e595d2d2635fd6c5dfeff02535/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zyl.androidinfiniteloopviewpager/androidinfiniteloopviewpager/0.0.1/d32c9a277fe66b4ea61d5aab63a877d2b549f338/androidinfiniteloopviewpager-0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
