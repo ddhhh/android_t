@@ -34,7 +34,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".multprocess_messenger.MultiProcess1Activity" android:process=":process" android:exported="true"/>
-        <activity android:name=".multprocess_aidl.AidlMultiProcessActivity" />
+        <activity android:name=".multprocess_aidl.AidlMultiProcessActivity" android:process=":process" android:exported="true" />
     </application>
 
 </manifest>
